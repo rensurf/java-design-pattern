@@ -1,6 +1,5 @@
 package listfactory;
 
-import factory.Factory;
 import factory.Link;
 import factory.Tray;
 import factory.Page;
